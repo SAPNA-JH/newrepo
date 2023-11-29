@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css" />
+  </head>
+
+  <body>
+    <section class="home-container">
+      <div class="title-container">
+        <p class="page-title">Automated Public Lighting</p>
+        <p class="page-desc">
+          A Dynamic Street Lighting solution for minimizing the levels of power
+          consumed and Cost Effectiveness
+        </p>
+      </div>
+
+      <section class="main-container">
+        <p class="container-title">
+          Please Provide the following Information to monitor Power Usage
+        </p>
+
+        <div class="main-container-wrapper">
+          <div style="margin: 10px">
+            <label for="stateSelect">Select a State:</label>
+            <div class="select-style">
+              <select id="stateSelect">
+                <!-- JavaScript code will populate the options here -->
+              </select>
+            </div>
+            <p>
+              You have selected : <span id="selectedState">Andhra Pradesh</span>
+            </p>
+          </div>
+
+          <div style="margin: 10px">
+            <label for="subStationSelect">Select a District:</label>
+            <div class="select-style">
+              <select id="subStationSelect">
+                <!-- JavaScript code will populate the options here -->
+              </select>
+            </div>
+
+            <p>
+              You have selected :
+              <span id="selecetedSubstation">Chilkaluripeta</span>
+            </p>
+          </div>
+        </div>
+
+        <div class="secondary-container-wrapper">
+          <div id="total-lights">Total Lights Installed : : 1496</div>
+          <div id="in-use-lights">Total Lights in Use : 1453</div>
+          <div id="power-usage">Total Power Consumed : 786 MW</div>
+        </div>
+      </section>
+      <footer class="foolter">Developed by Codes Crafters</footer>
+    </section>
+  </body>
+  <script src="./index.js"></script>
+</html>

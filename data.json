@@ -1,0 +1,360 @@
+{
+    "states":[
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Assam",
+        "Bihar",
+        "Chhattisgarh",
+        "Delhi",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jammu & Kashmir",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Laddakh",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Nagaland",
+        "Pondicherry",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "Tripura",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "UT of Daman & Diu",
+        "West Bengal"
+      ],
+      "data": {
+        "Bihar": [
+          "ARA",
+          "BANKA",
+          "BIHARSHRIFF",
+          "Chandauti",
+          "GAYA",
+          "KISHANGANJ",
+          "LAKHISARAI",
+          "MUZAFFARPUR",
+          "NEW PURNEA",
+          "PATNA",
+          "PURNEA",
+          "Saharsa",
+          "SASARAM",
+          "SASARAMHVDC",
+          "Sitamarhi"
+        ],
+        "Jharkhand": [
+          "CHAIBASA",
+          "CHANDWA",
+          "DALTONGANJ",
+          "JAMSHEDPUR",
+          "RANCHI",
+          "RANCHI (NEW)"
+        ],
+        "Sikkim": [
+          "GANGTOK",
+          "NEW MELLI",
+          "RANGPO"
+        ],
+        "West Bengal": [
+          "ALIPURDUAR",
+          "ALIPURDUARHVDC",
+          "BERHAMPUR",
+          "BIRPARA",
+          "DALKHOLA",
+          "DURGAPUR",
+          "Jeerut",
+          "MAITHON",
+          "MALDA",
+          "Medinipur",
+          "NEW SILIGURI",
+          "RAJARHAT",
+          "SILIGURI",
+          "SUBHASHGRAM"
+        ],
+        "Arunachal Pradesh": [
+          "NAMSAI",
+          "NIRJULI",
+          "ROING",
+          "TEZU",
+          "ZIRO"
+        ],
+        "Assam": [
+          "BAKSA",
+          "BADARPUR",
+          "BALIPARA",
+          "BISHWANATH CHARIALI",
+          "BISHWANATH CHARIALI(HVDC)",
+          "BONGAIGAON",
+          "HAFLONG",
+          "MARIANI",
+          "MISA",
+          "SALAKATI",
+          "SILCHAR"
+        ],
+        "Manipur": [
+          "IMPHAL",
+          "JIRIBAM"
+        ],
+        "Meghalaya": [
+          "KHLERIHAT"
+        ],
+        "Mizoram": [
+          "AIZWAL",
+          "Melriat"
+        ],
+        "Nagaland": [
+          "DIMAPUR",
+          "MOKOKCHUNG"
+        ],
+        "Tripura": [
+          "DHALAI",
+          "NORTH TIRPURA",
+          "SOUTH TIRPURA",
+          "WEST TRIPURA"
+        ],
+        "Delhi": [
+          "Dwarka",
+          "JHATIKARA",
+          "MAHARANIBAGH",
+          "TUGLAKABAD"
+        ],
+        "Haryana": [
+          "BAHADURGARH",
+          "BALLABHGARH",
+          "BHIWANI",
+          "GURGAON",
+          "HISSAR",
+          "JIND",
+          "KURUKSHETRA",
+          "KURUKSHETRA(HVDC)",
+          "MANESAR",
+          "SONEPAT"
+        ],
+        "Rajasthan": [
+          "BHADLA",
+          "BIKANER",
+          "AJMER",
+          "BASSI",
+          "Bhadla-II",
+          "BHINMAL",
+          "BHIWADI",
+          "BHIWADIHVDC",
+          "CHITTORGARH",
+          "FATEHGARH-II",
+          "JAIPUR SOUTH",
+          "KANKROLI",
+          "KHETRI",
+          "KOTA",
+          "KOTPUTLI",
+          "NEEMARANA",
+          "SIKAR"
+        ],
+        "Uttarakhand": [
+          "DEHRADUN",
+          "KOTESHWAR",
+          "ROORKEE"
+        ],
+        "Himachal Pradesh": [
+          "CHAMBA",
+          "HAMIRPUR",
+          "NALLAGARH"
+        ],
+        "Jammu & Kashmir": [
+          "DRASS GIS",
+          "KARGIL",
+          "KISHENPUR",
+          "NEW WANPOH",
+          "SAMBHA",
+          "WAGOORA"
+        ],
+        "Laddakh": [
+          "KARGIL",
+          "LEH"
+        ],
+        "Punjab": [
+          "AMRITSAR",
+          "JALANDHAR",
+          "LUDHIANA",
+          "MALERKOTLA",
+          "MOGA",
+          "BANALA",
+          "PATIALA"
+        ],
+        "Uttar Pradesh": [
+          "VINDHYACHAL HVDC",
+          "AGRA",
+          "AGRAHVDC",
+          "ALIGARH",
+          "ALLAHABAD",
+          "BALIA",
+          "BALIAHVDC",
+          "BAREILLY",
+          "BAREILLY New",
+          "FATEHPUR",
+          "Firozabad",
+          "GORAKHPUR",
+          "KANPUR",
+          "KANPUR New",
+          "LUCKNOW",
+          "LUCKNOW New",
+          "MAINPURI",
+          "ORAI",
+          "RAEBAREILLY",
+          "RIHANDHVDC",
+          "Sambhal",
+          "SHAHRJAHANPUR",
+          "SOHAWAL",
+          "VARANASI",
+          "PITHORAGARH",
+          "SITARGANJ"
+        ],
+        "Odisha": [
+          "ANGUL",
+          "BARIPADA",
+          "BOLANGIR",
+          "INDRAVATI",
+          "JEYPORE",
+          "JHARSUGUDA",
+          "KEONJHAR",
+          "PANDIABILI",
+          "RENGALI",
+          "ROURKELA",
+          "TALCHERHVDC"
+        ],
+        "Andhra Pradesh": [
+            "Chilkaluripeta",
+            "GAZUWAKA",
+            "GOOTY",
+            "KADAPA",
+            "KURNOOL",
+            "NAGARJUNSAGAR",
+            "NELLORE",
+            "NELLORE PS",
+            "NP KUNTA",
+            "SRIKAKULAM",
+            "VEMAGIRI",
+            "VIJAYAWADA",
+            "VIZAGHVDC"
+          ],
+          "Karnataka": [
+            "BANGALORE",
+            "BIDADI",
+            "HASSAN",
+            "HIRIYUR",
+            "KOLAR AC",
+            "KOLARHVDC",
+            "KUDGI",
+            "MADHUGIRI (TUMKUR)",
+            "MYSORE",
+            "NARENDRA",
+            "PAVAGADA",
+            "YELAHANKA"
+          ],
+          "Kerala": [
+            "KOCHI",
+            "KOZHIKODE",
+            "PALLAKAD",
+            "THIRUVANANTHAPURAM",
+            "TRICHUR",
+            "TRISSUR GIS",
+            "TRISSUR HVDC"
+          ],
+          "Pondicherry": [
+            "PUDUCHERRY"
+          ],
+          "Tamil Nadu": [
+            "ARASUR",
+            "DHARMAPURI (SALEM PS)",
+            "HOSUR",
+            "KALIBANDHAPATU",
+            "KARAIKUDI",
+            "MADRAS (Sriperumabdur)",
+            "MADURAI",
+            "NAGAPATTINAM",
+            "PUGALUR (Karur)",
+            "Pugalur GIS",
+            "Pugalur HVDC",
+            "SALEM",
+            "THIRUNELVELI",
+            "THIRUNELVELI GIS",
+            "TIRUVALEM",
+            "TRICHY",
+            "TUTICORIN PS",
+            "UDUMALPET"
+          ],
+          "Chhattisgarh": [
+            "BHATAPARA",
+            "BILASPUR",
+            "CHAMPAHVDC",
+            "CHAMPA PS",
+            "DHARAMJAYGARH",
+            "RAIGARH",
+            "RAIGARH (KOTRA) PS",
+            "RAIGARH (TAMNAR) PS",
+            "Raigarh HVDC",
+            "RAIPUR",
+            "RAIPUR (DURG) PS"
+          ],
+          "Goa": [
+            "MAPUSA"
+          ],
+          "Madhya Pradesh": [
+            "SEONI",
+            "AURANGABAD",
+            "BHADRAWATI",
+            "CHANDRAPUR HVDC",
+            "KOLHAPUR",
+            "PADGHE",
+            "PARLI",
+            "PUNE (TALEGAON)",
+            "PUNE New",
+            "SOLAPUR",
+            "WARDHA",
+            "BOISAR"
+          ],
+          "UT of Daman & Diu": [
+            "MAGARWADA"
+          ],
+          "Gujarat": [
+            "Banaskantha",
+            "BHACHAU",
+            "Bhuj",
+            "Bhuj-II",
+            "DEHGAM",
+            "KALA",
+            "NAVSARI",
+            "PIRANA",
+            "Radhanesda",
+            "VADODARA",
+            "VAPI"
+          ],
+          "Telangana": [
+            "ADILABAD",
+            "NALGONDA",
+            "JAGTIAL",
+            "MEDAK",
+            "MANCHERIAL",
+            "WARANGAL",
+            "SIDDIPET",
+            "KUMURAM BHEEM ASIFABAD",
+            "KARIMNAGAR",
+            "MAHABUBNAGAR",
+            "SANGAREDDY",
+            "KHAMMAM"
+          ]
+
+           
+
+
+        }
+      
+}
